@@ -36,4 +36,4 @@ try:
 except Exception:
     pass
 
-app.run('host=0.0.0.0')
+app.run()
